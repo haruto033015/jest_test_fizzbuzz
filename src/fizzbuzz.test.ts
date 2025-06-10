@@ -1,0 +1,2 @@
+import {fizzbuzz} from "./fizzbuzz";
+
